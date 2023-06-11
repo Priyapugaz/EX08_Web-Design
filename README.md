@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,6 +74,7 @@ function myFunction() {
 </form>
 </body>
 </html>
+```
 
 ## OUTPUT
 
